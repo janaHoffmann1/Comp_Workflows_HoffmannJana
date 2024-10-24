@@ -1,0 +1,17 @@
+sample,condition
+Sham_oxy_1,Sham_treated
+Sham_oxy_2,Sham_treated
+Sham_oxy_3,Sham_treated
+Sham_oxy_4,Sham_treated
+Sham_Sal_1,Sham_control
+Sham_Sal_2,Sham_control
+Sham_Sal_3,Sham_control
+Sham_Sal_4,Sham_control
+SNI_oxy_1,SNI_treated
+SNI_oxy_2,SNI_treated
+SNI_oxy_3,SNI_treated
+SNI_oxy_4,SNI_treated
+SNI_Sal_1,SNI_control
+SNI_Sal_2,SNI_control
+SNI_Sal_3,SNI_control
+SNI_Sal_4,SNI_control

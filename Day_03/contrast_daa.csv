@@ -1,0 +1,4 @@
+id,variable,reference,target
+condition_SNIoxy_Shamsal,condition,Sham_control,SNI_treated
+condition_Shamoxy_Shamsal,condition,Sham_control,Sham_treated
+condition_SNIsal_Shamoxy,condition,Sham_control,SNI_control
